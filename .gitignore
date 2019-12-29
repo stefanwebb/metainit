@@ -1,0 +1,4 @@
+/__pycache__/*.pyc
+/data/MNIST/processed/*.pt
+/data/MNIST/raw/*
+/data/MNIST/raw/*.gz
